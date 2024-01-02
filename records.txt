@@ -1,0 +1,10 @@
+_____________Indigo Airways____________
+______________Ticket_________________
+_____________________________________
+Customer ID:2938932
+Customer Name:Param
+Customer Gender:Male
+	Description
+
+Destination		USA
+Flight cost :		39000
